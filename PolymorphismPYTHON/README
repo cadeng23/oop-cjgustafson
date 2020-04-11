@@ -1,0 +1,4 @@
+This is my attempt at creating a hierarchical structure
+in py to predict the Eye colors or decendants in a family 
+
+I cannot figure out why the Kids class does not inherit from the Family class
