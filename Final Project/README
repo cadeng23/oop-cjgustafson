@@ -1,0 +1,5 @@
+For my final project I decided to use the Observation pattern to make a basic
+stock market tracker that sells stock when a certain stipulation is met
+
+I could not directly connect it to a Stock Market API so incrementally added or 
+subtracted from the price of the stock i wanted to follow to simulate the market.
